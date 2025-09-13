@@ -110,21 +110,6 @@ Sayfadaki görsellerde hover efekti, klavye ile tema değiştirme, form doğrula
 
 ---
 
-## Lisans
-
-Bu proje **MIT Lisansı** ile dağıtılmaktadır.
-
-```
-MIT License
-
-Copyright (c) 2022—
-
-Permission is hereby granted, free of charge, to any person obtaining a copy...
-(standart MIT metni)
-```
-
----
-
 ### Notlar
 
 - Navigasyon ve butonlar görsel/demonstratif amaçlıdır; backend entegrasyonu yoktur.  
